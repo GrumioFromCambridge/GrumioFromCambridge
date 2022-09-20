@@ -1,0 +1,2 @@
+- Hello, I am @GrumioFromCambridge a team member of the 7166 FRC team Red Thunder Robotics. 
+- I am fairly new to java and am slowly learning as we create our robots for the upcoming years
